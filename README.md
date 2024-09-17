@@ -10,3 +10,8 @@ This is a simple stopwatch application built in Java using Swing. It allows user
 
 ## Requirements
 - Java Development Kit (JDK) version 8 or higher.
+  
+## Usage
+- Click the **START** button to begin the stopwatch.
+- Click the **STOP** button to pause it.
+- Click the **RESET** button to reset the stopwatch to 00:00:00.
