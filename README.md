@@ -7,3 +7,6 @@ This is a simple stopwatch application built in Java using Swing. It allows user
 - Time displayed in `HH:MM:SS` format.
 - Customizable GUI with `JLabel`, `JButton`, and `JFrame`.
 - Accurate time tracking using `Timer` class.
+
+## Requirements
+- Java Development Kit (JDK) version 8 or higher.
